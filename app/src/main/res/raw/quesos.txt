@@ -1,0 +1,167 @@
+Abbaye du Mont des Cats;Eslovenia
+Abertam;Bielorrusia
+Ackawi;Federación Rusa
+Acorn;Portugal
+Allgauer Emmentaler;Dinamarca
+Anejo Enchilado;Liechtenstein
+Anthoriro;Suecia
+Ardi Gasna;Bélgica
+Asiago;Hungría
+Balaton;Federación Rusa
+Barry's Bay Cheddar;Malta
+Basing;Irlanda
+Bavarian Bergkase;Georgia
+Beauvoorde;Finlandia
+Berkswell;Bulgaria
+Blue;Irlanda
+Boeren Leidenkaas;Alemania
+Bra;Grecia
+Buffalo;Armenia
+Cabrales;Estonia
+Caerphilly;Luxemburgo
+Cairnsmore;Reino Unido
+Canestrato;Bosnia-Herzegovina
+Castellano;Irlanda
+Castelleno;Dinamarca
+Castelmagno;Grecia
+Castigliano;Chipre
+Comte;Hungría
+Coolea;Eslovaquia
+Coquetdale;Bosnia-Herzegovina
+Corleggy;Grecia
+Cotherstone;España
+Cotija;Croacia
+Coverdale;Islandia
+Crayeux de Roncq;República Checa
+Crottin de Chavignol;Portugal
+Curworthy;Federación Rusa
+Cwmtawe Pecorino;Montenegro
+Denhany Dorset Drum;Grecia
+Derby;Bielorrusia
+Doolin;Lituania
+Dorset Blue Vinney;Portugal
+Double Worcester;Portugal
+Dry Jack;Portugal
+Duddleswell;Dinamarca
+Dunlop;Lituania
+Duroblando;Malta
+Dutch Mimolette (Commissiekaas);Serbia
+Emmental;Malta
+Etorki;Islandia
+Evora De L'Alentejo;Georgia
+Finlandia Swiss;Francia
+Fiore Sardo;Azerbaiyán
+Folded cheese with mint;Georgia
+Four Herb Gouda;Irlanda
+Fourme de Montbrison;Polonia
+Fribourgeois;Liechtenstein
+Friesekaas;Grecia
+Friesian;Eslovenia
+Fromage a Raclette;Moldova
+Frying Cheese;Liechtenstein
+Gabriel;Irlanda
+Gammelost;Armenia
+Gaperon a l'Ail;Austria
+Garrotxa;Macedonia
+Gornyaltajski;Alemania
+Gospel Green;Bulgaria
+Gowrie;Hungría
+Grafton Village Cheddar;Grecia
+Grana;Estonia
+Grana Padano;Estonia
+Graviera;Armenia
+Gruyere;Hungría
+Halloumi;Dinamarca
+Halloumy (Australian);Reino Unido
+Haloumi-Style Cheese;Ciudad del Vaticano
+Heidi Gruyere;Macedonia
+Herriot Farmhouse;Armenia
+Iberico;Bielorrusia
+Idaho Goatster;España
+Idiazabal;España
+Isle of Mull;Alemania
+Jarlsberg;Suecia
+Jindi Brie;España
+Kadchgall;Luxemburgo
+Kefalotyri;Liechtenstein
+Laguiole;Georgia
+Lairobell;Finlandia
+Lancashire;Luxemburgo
+Laruns;Malta
+Lavistown;Federación Rusa
+Leafield;San Marino
+Leicester;San Marino
+Leyden;Estonia
+Lincolnshire Poacher;Chipre
+Llanboidy;Azerbaiyán
+Llanglofan Farmhouse;Mónaco
+Loch Arthur Farmhouse;Armenia
+Longhorn;Letonia
+Lou Palou;Luxemburgo
+Mahon;Bélgica
+Malvern;Alemania
+Manchego;Rumania
+Manur;Reino Unido
+Marble Cheddar;Montenegro
+Menallack Farmhouse;Armenia
+Mihalic Peynir;Estonia
+Montasio;Bélgica
+Monterey Jack Dry;Letonia
+Northumberland;Dinamarca
+Orkney Extra Mature Cheddar;Italia
+Oschtjepka;Mónaco
+Parmesan (Parmigiano);Letonia
+Parmigiano Reggiano;Grecia
+Pecorino;Andorra
+Pecorino Romano;Eslovenia
+Penbryn;Suiza
+Piora;Ciudad del Vaticano
+Plymouth Cheese;Irlanda
+Pressato;Grecia
+Pyengana Cheddar;Dinamarca
+Queso del Tietar;Luxemburgo
+Queso Iberico;Rumania
+Queso Majorero;Moldova
+Queso Para Frier;Federación Rusa
+Raclette;Armenia
+Ragusano;Armenia
+Reggianito;Letonia
+Remedou;Irlanda
+Ricotta Salata;Croacia
+Romano;Bielorrusia
+Roncal;Suecia
+Saanenkaese;Irlanda
+Sainte Maure;Montenegro
+Salers;Georgia
+Sancerre;República Checa
+Sap Sago;Polonia
+Sardo;Mónaco
+Sardo Egyptian;Albania
+Sbrinz;Francia
+Schabzieger;Malta
+Serat;Eslovenia
+Seriously Strong Cheddar;Mónaco
+Shelburne Cheddar;Lituania
+Shropshire Blue;San Marino
+Smoked Gouda;Suiza
+Spenwood;Federación Rusa
+Sraffordshire Organic;Serbia
+Stinking Bishop;Bosnia-Herzegovina
+Swaledale;Eslovenia
+Swiss;Alemania
+Syrian (Armenian);Países Bajos
+Tala;Moldova
+Teifi;Rumania
+Tillamook Cheddar;Malta
+Tomme d'Abondance;Macedonia
+Tyn Grug;Finlandia
+Tyning;Georgia
+Ubriaco;Serbia
+Wellington;Moldova
+Wensleydale;Noruega
+White Stilton;República Checa
+Xynotyro;Reino Unido
+Yarg Cornish;Lituania
+Zamorano;Georgia
+Zanetti Grana Padano;Luxemburgo
+Zanetti Parmigiano Reggiano;Georgia
