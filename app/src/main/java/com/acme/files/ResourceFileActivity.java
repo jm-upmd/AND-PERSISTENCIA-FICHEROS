@@ -16,6 +16,9 @@ import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
+// Utilizamos ListActivity que hereda de Activity. Esta tiene embebido un layout con una
+// ListView que infla por defecto y no tenemos que construirlo nosotros.
+
 public class ResourceFileActivity extends ListActivity {
     ArrayList<String> listaElementos = new ArrayList<String>();
 
@@ -23,10 +26,11 @@ public class ResourceFileActivity extends ListActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_resource_file);
+        // Esto no hace falta. Solo si queremos cargar un layout diferente al de por defecto.
+        //setContentView(R.layout.activity_resource_file);
 
-        leeQuesos();
-        //leeGodos();
+        //leeQuesos();
+        leeGodos();
 
 
     }
@@ -35,6 +39,8 @@ public class ResourceFileActivity extends ListActivity {
 
 
         try {
+
+            // Hacemos referencia al fichero como un recurso raw.
             InputStream in = getResources().openRawResource(R.raw.quesos);
 
             InputStreamReader reader = new InputStreamReader(in, "UTF-8");
@@ -49,6 +55,8 @@ public class ResourceFileActivity extends ListActivity {
         } catch (Throwable t) {
             Toast.makeText(this, "Error:" + t.getMessage(), Toast.LENGTH_LONG).show();
         }
+
+        // Para el item del ListView Utiliza un layout por defecto predefinido en android.
         setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, listaElementos));
     }
 
@@ -56,7 +64,8 @@ public class ResourceFileActivity extends ListActivity {
         try {
             //obtenemos el recurso
             InputStream in = getResources().openRawResource(R.raw.godos);
-            //generamos el documento XML
+
+            //Generamos el documento XML
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             Document doc = builder.parse(in);
             NodeList fileGodos = doc.getElementsByTagName("godo");
